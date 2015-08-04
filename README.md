@@ -42,7 +42,7 @@ awk は原則として使わないと決めています。
 * https://abc004.contest.atcoder.jp/submissions/463197 -- C
 * https://abc004.contest.atcoder.jp/submissions/463268 -- D
 
-### ABC 005
+## ABC 005
 
 * https://abc005.contest.atcoder.jp/submissions/463348 -- A
 * https://abc005.contest.atcoder.jp/submissions/463350 -- B
