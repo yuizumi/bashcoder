@@ -48,3 +48,11 @@ awk は原則として使わないと決めています。
 * https://abc005.contest.atcoder.jp/submissions/463350 -- B
 * https://abc005.contest.atcoder.jp/submissions/463569 -- C
 * https://abc005.contest.atcoder.jp/submissions/463614 -- D（部分点）
+
+## ABC 006
+
+* https://abc006.contest.atcoder.jp/submissions/463893 -- A
+* https://abc006.contest.atcoder.jp/submissions/463934 -- B
+* https://abc006.contest.atcoder.jp/submissions/463951 -- C
+* https://abc006.contest.atcoder.jp/submissions/463663 -- D（部分点）
+* https://abc006.contest.atcoder.jp/submissions/464104 -- D（部分点）
