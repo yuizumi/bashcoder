@@ -6,8 +6,8 @@ AtCoder の問題の bash による解答例。
 
 [Wiki][1] には bash で問題を解くために必要な知識などが書いてあります。
 
-awk は原則として使わないと決めています。
-そもそも awk だけで問題は解けるはずなので。
+awk は原則として使わない、bc も小数の計算以外には使わないと決めています。
+とはいえ、制限時間の都合で使わざるを得ないこともあり、その場合には解答に（升解答）と記してあります。
 
 [1]: https://github.com/yuizumi/bashcoder/wiki/
 
@@ -56,3 +56,4 @@ awk は原則として使わないと決めています。
 * https://abc006.contest.atcoder.jp/submissions/463951 -- C
 * https://abc006.contest.atcoder.jp/submissions/463663 -- D（部分点）
 * https://abc006.contest.atcoder.jp/submissions/464104 -- D（部分点）
+* https://abc006.contest.atcoder.jp/submissions/464251 -- D（升解答）
