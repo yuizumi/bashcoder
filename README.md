@@ -6,7 +6,7 @@ AtCoder の問題の bash による解答例。
 
 [Wiki][1] には bash で問題を解くために必要な知識などが書いてあります。
 
-awk は原則として使わない、bc も実数／多倍長計算以外には使わないと決めています。
+awk は原則として使わない、bc も多倍長／小数計算以外には使わないと決めています。
 とはいえ、制限時間の都合で使わざるを得ないこともあり、その場合には解答に（升解答）と記してあります。
 
 [1]: https://github.com/yuizumi/bashcoder/wiki/
@@ -16,7 +16,7 @@ awk は原則として使わない、bc も実数／多倍長計算以外には�
 * https://abc030.contest.atcoder.jp/submissions/553646 -- A
 * https://abc030.contest.atcoder.jp/submissions/555011 -- B
 * https://abc030.contest.atcoder.jp/submissions/595094 -- C（升解答）
-* https://abc030.contest.atcoder.jp/submissions/595146 -- D
+* https://abc030.contest.atcoder.jp/submissions/595149 -- D
 
 ## ABC 029
 
