@@ -17,7 +17,7 @@ awk は原則として使わない、bc も小数の計算以外には使わな�
 * https://abc029.contest.atcoder.jp/submissions/595030 -- B
 * https://abc029.contest.atcoder.jp/submissions/595047 -- C（高速）
 * https://abc029.contest.atcoder.jp/submissions/595034 -- C（低速）
-* https://abc029.contest.atcoder.jp/submissions/595035 -- D
+* https://abc029.contest.atcoder.jp/submissions/595058 -- D
 
 ## ABC 028
 
