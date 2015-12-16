@@ -11,6 +11,13 @@ awk は原則として使わない、bc も小数の計算以外には使わな�
 
 [1]: https://github.com/yuizumi/bashcoder/wiki/
 
+## ABC 030
+
+* https://abc030.contest.atcoder.jp/submissions/553646 -- A
+* https://abc030.contest.atcoder.jp/submissions/555011 -- B
+* https://abc030.contest.atcoder.jp/submissions/595094 -- C（升解答）
+* https://abc030.contest.atcoder.jp/submissions/595113 -- D（升解答）
+
 ## ABC 029
 
 * https://abc029.contest.atcoder.jp/submissions/595029 -- A
